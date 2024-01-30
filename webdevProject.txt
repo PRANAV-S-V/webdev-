@@ -1,0 +1,53 @@
+Projects made till 8th December 2023
+
+
+
+10.0 Display Grid
+10.2 Grid Placement
+10.3 Mondrian Project
+11.0 Bootstrap Intro
+11.2 Bootstrap Components
+11.3 TinDog Project
+2.1 Using Node
+2.3 NPM
+2.4 Movie Ranking Project
+2.4 QR Code Project
+3.0 List Elements
+3.1 Express Server
+3.1 Nesting and Indentation
+3.3 Postman
+3.4 Birthday Invite Project
+3.4 Middleware
+3.5 Secrets Project
+4.0EJS
+4.1 EJS Tags
+4.2 Passing Data
+4.3 EJS Partials
+4.4 Band Generator Project
+5.1. Adding CSS
+5.3 CSS Selectors
+5.4 Color Vocab Project
+6.0 CSS Colors
+6.1 Font Properties
+6.3 CSS Box Model
+6.4 Motivation Meme Project
+7.0 CSS Cascade
+7.2 CSS Positioning
+7.3 CSS Flag Project
+8.0 CSS Display
+8.1 CSS Float
+8.3 Media Query
+8.4 Web Design Agency Project
+9.0 Display Flex
+9.1 Flex Direction
+9.4 Flexbox Pricing Table Project
+BlogSite
+CapstoneProject
+DOM Challenge Starting Files
+Dicee Challenge - Starting Files
+Drum Kit Starting Files
+Practice Express Server
+Simon Game Challenge Starting Files
+capstoneProject2
+jquery
+webdevProject.txt

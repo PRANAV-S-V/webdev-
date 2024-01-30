@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'norwester';
+    src: url('norwester/norwester.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Tenor_Sans;
+    src: url(Tenor_Sans/TenorSans-Regular.ttf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+html{
+        margin: 0;
+        padding: 0;
+        border: 0;
+        box-sizing: border-box;
+
+    
+}
+.body-designer{
+    background-color: #545454;
+}
+.norwester{
+    font-family: norwester;
+    color: white;
+    
+    
+}
+.body-tenor{
+    font-family: Tenor_Sans;
+    color: white;
+    font-size: 2rem;
+}
+
+
+.title-modifier{
+    padding-top: 6rem;
+    font-size: 4rem;
+    color: #545454;
+    text-align: left;
+    margin: 0;
+}
+
+#body-about{
+    padding-bottom: 8rem;
+    color: #545454;
+    text-align: left;
+    padding-top: 2rem;
+    
+}
+.large{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.hobby-container{
+    background-color: #7D7463;
+}
+
+.container-flex{
+   
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 6rem;
+    height: 27rem
+}
+.hobby-image{
+    width: 23em;
+    height: 23em;
+}
+
+@media screen and (max-width: 1105px) {
+
+    .hobby-image{
+        width: 15em;
+        height: 15em;
+    }
+}
+.face-design{
+    height: 400px;
+    width: 400px;
+    color: white;
+    
+}
+@media screen and (max-width: 722px) {
+
+    .hobby-image{
+        width: 10em;
+        height: 10em;
+    }
+}
+
+@media screen and (max-width: 580px) {
+
+    .hobby-image{
+        width: 8em;
+        height: 8em;
+    }
+}
+
+@media screen and (max-width: 376px) {
+
+    .hobby-image{
+        width: 6em;
+        height: 6em;
+    }
+
+    .face-design{
+        height: 150px;
+        width: 150px;
+    }
+}
+#body-quote{
+
+    padding-bottom: 8rem;
+    color: #545454;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 8rem;
+    
+}
